@@ -1,4 +1,4 @@
-const array = [42, false, "true", 51, "cow", {n: 4}, true, true, 13, 65, "1", null, undefined, NaN]
+const array = [52, false, "lean", 51,  NaN, "RR", {n: 5}, true, 24, 12, 44, null, undefined]
 
 const countType = (array) => {
     const typeCounter = {};
