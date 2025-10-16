@@ -1,4 +1,3 @@
-// first instance
 const phones = [
     {name: 'name1', phone: '+380 11 1111111'},
     {name: 'name2', phone: '+380 22 2222222'},
